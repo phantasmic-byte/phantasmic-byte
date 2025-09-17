@@ -1,12 +1,18 @@
 ## 🫧 Welcome! I am Peter Phan 🫧
 #### Art 🎨 transcends time ⏰ and space 🌌
 
-### 🏗️ Current Projects 🚧
+### 🏗️ Current Projects 
 - [Drawing App 🖌️](https://github.com/phantasmic-byte/drawer-js)
 
 
-### ⏳ Sandbox 📦
+### 🛝 Sandboxes 
 [<img src="https://blog.codepen.io/wp-content/uploads/2023/09/logo-black.png" height = "30px" alt="CodePen Logo as SVG"/>](https://codepen.io/phantasmic-byte)
+
+
+### ⌛Previous Projects
+
+- [Camp 🏕️](https://github.com/blue1mage/ThirdStation)
+- #### [School Projects 🎓](https://github.com/p2phan)
 
 ### 💡Interests
 
